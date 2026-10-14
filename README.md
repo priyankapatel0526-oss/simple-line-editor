@@ -3,9 +3,9 @@
 
 ## Team Members
 
->Punya RK
+>Punya R Kandagal
 >Priyanka KV
->Nivedita H
+>Nivedita Hallad
 
 ## About the Project
 
